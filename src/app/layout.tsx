@@ -4,6 +4,9 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Isamu | Developer",
   description: "Personal website & blog",
+  icons: {
+    icon: "/icon.svg",
+  },
 };
 
 export default function RootLayout({

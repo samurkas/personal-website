@@ -2,7 +2,7 @@
 
 Kişisel web sitem, blogum ve proje vitrinim.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/samurkas/ismailsamurkas.dev)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/samurkas/personal-website)
 
 > **[TR]** Next.js 15, Tailwind CSS ve MDX ile oluşturulmuş, Türkçe/İngilizce destekli kişisel web sitesi.
 >

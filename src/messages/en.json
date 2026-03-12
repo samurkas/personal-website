@@ -1,0 +1,78 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "blog": "Blog",
+    "projects": "Projects",
+    "contact": "Contact",
+    "resume": "Resume"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Ismail Samurkas",
+    "role": "Computer Engineering Student | Autonomous Systems & ROS 2 Developer | Teknofest UGV 5th Place",
+    "description": "I am a Computer Engineering student at Karabuk University, focusing on autonomous systems, robotics (ROS 2), and AI (YOLO). I develop navigation and communication systems for the EVRENOS UGV team, which ranked 5th in Turkey at Teknofest.",
+    "cta_projects": "My Projects",
+    "cta_contact": "Contact Me"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Who I am and what I do",
+    "bio": "I am a Computer Engineering student at Karabuk University, focusing on autonomous systems, robotics (ROS 2), and AI (YOLO). I develop navigation and communication systems for the EVRENOS UGV team, which ranked 5th in Turkey at Teknofest. I also build desktop automations and network programming projects using PyQt and C#. Outside of coding, I enjoy riding cross motorcycles, skiing, and outdoor sports.",
+    "timeline_title": "My Journey"
+  },
+  "skills": {
+    "title": "Skills",
+    "subtitle": "Technologies and tools I work with",
+    "autonomous": "Autonomous Systems & Robotics",
+    "ai": "AI & Computer Vision",
+    "languages": "Programming Languages",
+    "software": "Software & UI Development",
+    "systems": "Operating Systems & Hardware"
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "Some of the projects I've worked on",
+    "view_code": "View Code",
+    "live_demo": "Live Demo",
+    "all": "All"
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "My writings, thoughts, and learnings",
+    "read_more": "Read More",
+    "min_read": "min read",
+    "no_posts": "No posts yet.",
+    "back": "Go Back"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Got a project? Let's work together!",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send",
+    "sending": "Sending...",
+    "success": "Your message has been sent!",
+    "error": "An error occurred. Please try again.",
+    "or_reach": "or reach out via"
+  },
+  "resume": {
+    "title": "Resume",
+    "subtitle": "My professional experience and education",
+    "download": "Download PDF",
+    "experience": "Experience",
+    "education": "Education",
+    "awards": "Awards",
+    "volunteer": "Volunteer",
+    "certifications": "Certifications & Training",
+    "present": "Present"
+  },
+  "footer": {
+    "built_with": "Built with Next.js & Tailwind CSS",
+    "rights": "All rights reserved."
+  },
+  "common": {
+    "scroll_down": "Scroll down"
+  }
+}

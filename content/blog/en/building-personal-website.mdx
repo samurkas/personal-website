@@ -1,0 +1,49 @@
+---
+title: "How to Build a Personal Website with Next.js"
+description: "A guide to creating a modern personal website using Next.js, Tailwind CSS, and MDX."
+date: "2026-03-12"
+tags: ["Next.js", "React", "Web Development"]
+---
+
+# How to Build a Personal Website with Next.js
+
+A personal website is one of the best ways to introduce yourself and showcase your projects. In this post, I'll walk you through creating a modern personal site using Next.js.
+
+## Why Next.js?
+
+Next.js, as a React-based framework, offers many advantages:
+
+- **Server-Side Rendering (SSR):** SEO-friendly pages
+- **Static Site Generation (SSG):** Fast load times
+- **App Router:** Modern and flexible routing
+- **Vercel Integration:** One-click deployment
+
+## Getting Started
+
+First, let's create a Next.js project:
+
+```bash
+npx create-next-app@latest my-site --typescript --tailwind
+```
+
+## Styling with Tailwind CSS
+
+Tailwind CSS lets you build consistent designs quickly with its utility-first approach:
+
+```tsx
+export default function Hero() {
+  return (
+    <section className="flex min-h-screen items-center justify-center">
+      <h1 className="text-5xl font-bold">Hello World!</h1>
+    </section>
+  );
+}
+```
+
+## Blog with MDX
+
+MDX allows you to use React components inside Markdown. This enables you to create interactive content in your blog posts.
+
+## Conclusion
+
+Building a personal website with modern web technologies has never been easier. The combination of Next.js, Tailwind CSS, and MDX lets you create both beautiful and performant sites.

@@ -1,0 +1,49 @@
+---
+title: "Next.js ile Kişisel Web Sitesi Nasıl Yapılır"
+description: "Next.js, Tailwind CSS ve MDX kullanarak modern bir kişisel web sitesi oluşturma rehberi."
+date: "2026-03-12"
+tags: ["Next.js", "React", "Web Geliştirme"]
+---
+
+# Next.js ile Kişisel Web Sitesi Nasıl Yapılır
+
+Kişisel bir web sitesi, kendinizi tanıtmanın ve projelerinizi sergilemenin en iyi yollarından biridir. Bu yazıda, Next.js kullanarak nasıl modern bir kişisel site oluşturabileceğinizi anlatacağım.
+
+## Neden Next.js?
+
+Next.js, React tabanlı bir framework olarak birçok avantaj sunar:
+
+- **Server-Side Rendering (SSR):** SEO dostu sayfalar
+- **Static Site Generation (SSG):** Hızlı yüklenme süreleri
+- **App Router:** Modern ve esnek routing yapısı
+- **Vercel Entegrasyonu:** Tek tıkla deploy
+
+## Başlarken
+
+İlk olarak bir Next.js projesi oluşturalım:
+
+```bash
+npx create-next-app@latest my-site --typescript --tailwind
+```
+
+## Tailwind CSS ile Stil
+
+Tailwind CSS, utility-first yaklaşımıyla hızlı ve tutarlı tasarımlar yapmanızı sağlar:
+
+```tsx
+export default function Hero() {
+  return (
+    <section className="flex min-h-screen items-center justify-center">
+      <h1 className="text-5xl font-bold">Merhaba Dünya!</h1>
+    </section>
+  );
+}
+```
+
+## MDX ile Blog
+
+MDX, Markdown içinde React bileşenleri kullanmanızı sağlar. Bu, blog yazılarınızda interaktif içerikler oluşturmanıza olanak tanır.
+
+## Sonuç
+
+Modern web teknolojileri ile kişisel bir web sitesi oluşturmak hiç bu kadar kolay olmamıştı. Next.js, Tailwind CSS ve MDX üçlüsü ile hem güzel hem de performanslı siteler yapabilirsiniz.

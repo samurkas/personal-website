@@ -1,0 +1,78 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımda",
+    "blog": "Blog",
+    "projects": "Projeler",
+    "contact": "İletişim",
+    "resume": "Özgeçmiş"
+  },
+  "hero": {
+    "greeting": "Merhaba, ben",
+    "name": "İsmail Samurkaş",
+    "role": "Bilgisayar Mühendisliği Öğrencisi | Otonom Sistemler & ROS 2 Geliştiricisi | Teknofest İKA 5.'si",
+    "description": "Karabük Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Otonom sistemler, robotik (ROS 2) ve yapay zeka (YOLO) üzerine çalışıyorum. Teknofest Türkiye 5.'liği elde eden EVRENOS İKA takımında navigasyon ve haberleşme sistemleri geliştiriyorum.",
+    "cta_projects": "Projelerim",
+    "cta_contact": "İletişim"
+  },
+  "about": {
+    "title": "Hakkımda",
+    "subtitle": "Kim olduğum ve ne yaptığım hakkında",
+    "bio": "Karabük Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Otonom sistemler, robotik (ROS 2) ve yapay zeka (YOLO) üzerine çalışıyorum. Teknofest Türkiye 5.'liği elde eden EVRENOS İKA takımında navigasyon ve haberleşme sistemleri geliştiriyorum. Ayrıca PyQt ve C# ile masaüstü otomasyonları ve ağ programlama projeleri üretiyorum. Yazılım dışında cross motor kullanmak, kayak yapmak ve doğa sporlarıyla ilgilenmekten keyif alıyorum.",
+    "timeline_title": "Yolculuğum"
+  },
+  "skills": {
+    "title": "Yetenekler",
+    "subtitle": "Çalıştığım teknolojiler ve araçlar",
+    "autonomous": "Otonom Sistemler & Robotik",
+    "ai": "Yapay Zeka & Görüntü İşleme",
+    "languages": "Programlama Dilleri",
+    "software": "Yazılım & Arayüz Geliştirme",
+    "systems": "İşletim Sistemleri & Donanım"
+  },
+  "projects": {
+    "title": "Projeler",
+    "subtitle": "Üzerinde çalıştığım bazı projeler",
+    "view_code": "Kodu Gör",
+    "live_demo": "Canlı Demo",
+    "all": "Tümü"
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Yazılarım, düşüncelerim ve öğrendiklerim",
+    "read_more": "Devamını Oku",
+    "min_read": "dk okuma",
+    "no_posts": "Henüz yazı yok.",
+    "back": "Geri Dön"
+  },
+  "contact": {
+    "title": "İletişim",
+    "subtitle": "Bir projeniz mi var? Birlikte çalışalım!",
+    "name": "İsim",
+    "email": "E-posta",
+    "message": "Mesaj",
+    "send": "Gönder",
+    "sending": "Gönderiliyor...",
+    "success": "Mesajınız gönderildi!",
+    "error": "Bir hata oluştu. Lütfen tekrar deneyin.",
+    "or_reach": "ya da buralardan ulaşın"
+  },
+  "resume": {
+    "title": "Özgeçmiş",
+    "subtitle": "Profesyonel deneyimim ve eğitimim",
+    "download": "PDF İndir",
+    "experience": "Deneyim",
+    "education": "Eğitim",
+    "awards": "Ödüller",
+    "volunteer": "Gönüllülük",
+    "certifications": "Sertifikalar & Eğitimler",
+    "present": "Devam ediyor"
+  },
+  "footer": {
+    "built_with": "Next.js & Tailwind CSS ile yapıldı",
+    "rights": "Tüm hakları saklıdır."
+  },
+  "common": {
+    "scroll_down": "Aşağı kaydır"
+  }
+}
